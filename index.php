@@ -176,5 +176,6 @@ foreach($results as $result)
 <?php include('includes/write-us.php');?>			
 <!-- //write us -->
 
+<p>nhanh 1</p>
 </body>
 </html>
