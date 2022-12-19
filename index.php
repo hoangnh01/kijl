@@ -177,5 +177,8 @@ foreach($results as $result)
 <!-- //write us -->
 
 <p>nhanh 1</p>
+<p>nhanh 2</p>
+
+
 </body>
 </html>
